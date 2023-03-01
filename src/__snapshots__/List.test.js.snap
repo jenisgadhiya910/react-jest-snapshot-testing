@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List matches snapshot when empty list 1`] = `<ul />`;
+
+exports[`List matches snapshot when items passed in 1`] = `
+<ul>
+  <li>
+    abc
+  </li>
+  <li>
+    def
+  </li>
+  <li>
+    ghi
+  </li>
+</ul>
+`;
